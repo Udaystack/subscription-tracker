@@ -1,0 +1,13 @@
+{
+  "name": "subscription-renewal-checker",
+  "version": "1.0.0",
+  "description": "AWS Lambda function to check and notify upcoming subscription renewals",
+  "main": "index.js",
+  "dependencies": {
+    "@aws-sdk/client-sns": "^3.450.0",
+    "pg": "^8.11.3"
+  },
+  "scripts": {
+    "package": "zip -r ../infrastructure/lambda-function.zip index.js node_modules package.json"
+  }
+}

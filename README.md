@@ -2,7 +2,7 @@
 
 > Never get surprised by a renewal charge again.
 
-A full stack finance application that tracks all your subscriptions, calculates your monthly/yearly spend, and sends **automated email/SMS alerts** via AWS SNS before renewal dates — built with Spring Boot microservices, React, AWS Lambda, and Docker
+A full stack finance application that tracks all your subscriptions, calculates your monthly/yearly spend, and sends **automated email/SMS alerts** via AWS SNS before renewal dates — built with Spring Boot microservices, React, AWS Lambda, and Docker.
 
 ---
 

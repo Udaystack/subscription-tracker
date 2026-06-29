@@ -8,7 +8,7 @@ A full stack finance application that tracks all your subscriptions, calculates 
 
 ## 🚀 Live Demo
 
-> Coming soon — deploying to AWS Elastic Beanstalk + Amplif
+> Coming soon — deploying to AWS Elastic Beanstalk + Amplify
 
 ---
 
